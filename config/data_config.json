@@ -1,0 +1,6 @@
+{
+  "futures": "OJ=F",
+  "etfs": ["DBA", "MOO"],
+  "equities": ["PEP", "KO", "KDP", "FIZZ", "MNST", "NSRGY", "SJM", "KHC"],
+  "start_date": "2020-01-01"
+}
