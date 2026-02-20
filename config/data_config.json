@@ -1,6 +1,12 @@
 {
-  "futures": "OJ=F",
+  "futures": ["OJ=F"],
   "etfs": ["DBA", "MOO"],
-  "equities": ["PEP", "KO", "KDP", "FIZZ", "MNST", "NSRGY", "SJM", "KHC"],
-  "start_date": "2020-01-01"
+  "equities": [
+    "PEP", "KO", "KDP", "FIZZ", "MNST", "NSRGY", "SJM", "KHC", 
+    "LMNR", "ALCO", "FDP", "AGRO",
+    "TATYY", "TSN", "GIS", "CAG",
+    "MOS", "NTR", "IPI", "CF"
+  ],
+  "forex": ["BRL=X", "EURUSD=X"],
+  "softs": ["SB=F", "CC=F", "KC=F"]
 }
